@@ -1,10 +1,9 @@
+### Index
 
-# OpenGroup; P2P Web communities via WebRTC
-
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+* The internet, decentralised from the start.
+* Open source a sensible default.
+* The Dot-com bubble
+* The growth of monoliths.
+* WebRTC. Remember Napster?
+* Unhosted “Whatsapp”, introducing OpenGroup.
+* Onwards, call for developers.
