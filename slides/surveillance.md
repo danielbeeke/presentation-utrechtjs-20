@@ -1,5 +1,7 @@
-##  Surveillance (2013)
+###  The great privacy collapse (2013)
 
 * Julian Assange (WikiLeaks)
-* Snowden (50,000 to 200,000 NSA documents)
-* The internet is under global surveillance
+* Snowden (NSA leaks)
+* Parts of the internet are under surveillance
+* US Government wants weak encryption against terrorists
+* FBI–Apple encryption dispute

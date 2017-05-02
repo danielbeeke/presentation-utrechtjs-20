@@ -1,9 +1,11 @@
-### Index
+### Index (1/2)
 
-* The internet, decentralised from the start.
-* Open source a sensible default.
-* The Dot-com bubble
-* The growth of monoliths.
-* WebRTC. Remember Napster?
-* Unhosted “Whatsapp”, introducing OpenGroup.
-* Onwards, call for developers.
+### A bit of history of the internet
+
+* The internet, open & decentralised from the start.
+* Early characteristics 1970 / 1985
+* Open source & the rise of proprietary software
+* The first browsers
+* The Dot-com bubble (1995 / 2000)
+* The growth of monoliths
+* The great privacy collapse (2013)

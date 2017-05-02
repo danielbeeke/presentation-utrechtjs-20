@@ -4,3 +4,5 @@
 * Open to academics, military and researchers
 * Sharing was normal, just like recipes
 * Technical skills needed
+* Innovative
+* Anonymous

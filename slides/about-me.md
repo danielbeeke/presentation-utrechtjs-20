@@ -1,6 +1,6 @@
 ###  About me
 
-<img src="/resources/daniel-vierkant.jpg" style="float: right; width: 160px;">
+<img src="resources/daniel-vierkant.jpg" style="float: right; width: 160px;">
 
 Daniël Beeke<br>
 Nerd and working at [Studio Fonkel](https://studiofonkel.nl)
