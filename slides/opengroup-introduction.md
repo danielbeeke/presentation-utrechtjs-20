@@ -1,9 +1,9 @@
-###  OpenGroup introduction
-
-* WebRTC social groups with plugins
-* Replaces Facebook or other commercial data harvesters
+###  OpenGroup introduction (1/2)
+<br><br>
+_A proof of concept of OpenGroup is working,<br>A lot of things are ideas, some are build._
+<br><br>
+* Why did I start with it?
+* Social groups with plugins
+* P2P via WebRTC, no servers in between
 * Data is distributed over peers
-* Anyone may create a cdn for the core or plugins
-* Open plugin architecture, write it, host it, share & use.
-* Needs a plugin safety concept and a marketplace
-* Signaling via mail, QR codes & websockets 
+* Essentially an infrastructure for P2P groups

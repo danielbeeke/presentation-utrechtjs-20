@@ -3,6 +3,7 @@
     "about-me.md",
     "index.md",
     "index-2.md",
+    "index-3.md",
     "a-bit-of-history-of-the-internet.md",
     "the-start-of-the-internet.md",
     "early-characteristics.md",
@@ -17,13 +18,43 @@
     "the-growth-of-monoliths.md",
     "tim-berners-lee.md",
     "tim-berners-lee-2.md",
+    "mobile-growth.md",
+    "mobile-growth-2.md",
+    {
+        "attr": {
+            "data-background": "resources/internet-growth.png",
+            "data-background-size": "contain",
+            "data-background-color": "white"
+        }
+    },
     "surveillance.md",
     "snowden.md",
     "brewster-kahle.md",
     "opengroup.md",
     "index-2.md",
+    "index-3.md",
     "webrtc-p2p-browser-connections.md",
     "signaling-with-servers.md",
     "signaling.svg",
-    "opengroup-introduction.md"
+    "turn-servers.md",
+    "opengroup-introduction.md",
+    "opengroup-introduction-2.md",
+    {
+        "attr": {
+            "data-background": "resources/mockup.png",
+            "data-background-size": "contain",
+            "data-background-color": "white"
+        }
+    },
+    "progressive-webapp.md",
+    "group-manifest.md",
+    "group-manifest-2.md",
+    "signaling.md",
+    "plugins-marketplace.md",
+    "plugins-marketplace-2.md",
+    "plugin.md",
+    "es6-jspm.md",
+  "add-plugin.md",
+  "testing-peers-with-karma.md",
+  "vuejs-as-theme-layer.md"
 ]

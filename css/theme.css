@@ -303,6 +303,10 @@ body {
     bottom: -10px;
     background-color: #37c871; }
 
+.reveal pre {
+  float: left;
+  clear: both; }
+
 .reveal ul {
   float: left;
   clear: both; }
