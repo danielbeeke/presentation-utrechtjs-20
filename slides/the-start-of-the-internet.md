@@ -1,4 +1,4 @@
-### The internet, open &<br>decentralised from the start.
+### The internet, open &<br>decentralized from the start.
 
 Early networks that grew into the internet.
 

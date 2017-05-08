@@ -6,4 +6,4 @@ Daniël Beeke<br>
 Nerd and working at [Studio Fonkel](https://studiofonkel.nl)
 <br><br>
 _Working with Drupal, ES6, Nodejs_<br>
-_Critical of the 'centralised' web_
+_Critical of the 'centralized' web_

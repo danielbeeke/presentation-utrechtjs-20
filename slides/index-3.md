@@ -1,11 +1,10 @@
-### Index (3/3)
+### Index (2/2)
 
 ### OpenGroup
 
-* Group manifest
-* Signaling
 * Plugins & Marketplace
 * Plugin example
+* EasyWebRTC
 * ES6 & JSPM
 * Testing peers with Karma
 * VueJS as theme layer

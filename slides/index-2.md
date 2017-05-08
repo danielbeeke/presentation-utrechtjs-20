@@ -1,4 +1,4 @@
-### Index (2/3)
+### Index (1/2)
 
 ### OpenGroup
 
@@ -7,3 +7,5 @@
 * TURN Servers
 * OpenGroup introduction
 * Progressive WebApp
+* Group manifest
+* Signaling
