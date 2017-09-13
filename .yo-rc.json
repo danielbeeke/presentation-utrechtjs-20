@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "OpenGroup; P2P Web communities via WebRTC",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "danielbeeke",
+    "githubRepository": "opengroup-presentation"
+  }
+}
