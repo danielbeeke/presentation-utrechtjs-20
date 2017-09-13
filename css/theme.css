@@ -309,6 +309,7 @@ body {
 
 .reveal ul {
   float: left;
+  width: 100%;
   clear: both; }
 
 .reveal em {

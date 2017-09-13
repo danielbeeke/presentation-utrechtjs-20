@@ -4,6 +4,7 @@
 - WebRTC
 - Signaling
 - ES6 and JSPM
+- Progressive Web App
 - VueJS
 - EventEmitter
 - Plugins
