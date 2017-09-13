@@ -1,9 +1,6 @@
 ###  About me
 
-<img src="resources/daniel-vierkant.jpg" style="float: right; width: 160px;">
+<img src="resources/daniel-vierkant.jpg" style="float: right; width: 120px; margin-top: -30px;">
 
 Daniël Beeke<br>
-Nerd and working at [Studio Fonkel](https://studiofonkel.nl)
-<br><br>
-_Working with Drupal, ES6, Nodejs_<br>
-_Critical of the 'centralized' web_
+Nerd and working at <a href="https://studiofonkel.nl" target="_blank">Studio Fonkel</a>

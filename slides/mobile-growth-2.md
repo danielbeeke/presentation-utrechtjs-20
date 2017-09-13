@@ -1,3 +1,0 @@
-###  Internet growth
-
-The next slide data:<br> [The World bank, World development Indicators](http://www.google.com/publicdata/explore?ds=wb-wdi&ctype=l&strail=false&bcs=d&nselm=h&met_y=it_net_user&scale_y=lin&ind_y=false&rdim=country&idim=country:GBR:EGY:NGA:SWE:ZAF:KEN&ifdim=country&tstart=-302662800000&tend=1275174000000&hl=en&dl=en&ind=false&icfg#!ctype=l&strail=false&bcs=d&nselm=h&met_y=it_net_user_p2&scale_y=lin&ind_y=false&rdim=country&idim=country:DNK:FRA:DEU:NLD:MEX:USA:GBR:UKR:TUR:SOM:SRB:SEN:KEN:LVA:LBN:MWI:MAR:POL:PHL:PER&ifdim=country&tdim=true&tstart=641944800000&tend=1241560800000&hl=en_US&dl=en&ind=false)

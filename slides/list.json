@@ -1,60 +1,12 @@
 [
     "front.md",
-    "about-me.md",
-    "why.md",
-    "a-bit-of-history-of-the-internet.md",
     "index.md",
-    "the-start-of-the-internet.md",
-    "early-characteristics.md",
-    "open-source-a-sensible-default.md",
-    "bill-gates.md",
-    "open-source-in-decline.md",
-    "tcp-ip.md",
-    "the-first-browser.md",
-    "david-clark.md",
-    "internet-dog.md",
-    "a-declaration-of-the-independence-of-cyberspace.md",
-    "dot-com-bubble.md",
-    "the-growth-of-monoliths.md",
-    "mobile-growth.md",
-    {
-        "attr": {
-            "data-background-iframe": "http://databank.worldbank.org/data/views/reports/ReportWidget.aspx?Report_Name=Internet-Growth&Id=82e1a33e&ti=n&ds=y&dd=n&tb=n&sh=y&dw=y&pr=n&inf=y&zm=y&md=y&navigator=n&theme=darkGrey&bdrClr=rgb(68,68,68)&bdrStyle=solid&bdrWidth=0px&desc=Arial;9px;true;false;rgb(68,68,68);justify&exptypes=Excel,CSV,TabbedTxt"
-        }
-    },
-    "surveillance.md",
-    "snowden.md",
-    "tim-berners-lee.md",
-    "tim-berners-lee-2.md",
-    "brewster-kahle.md",
-    "opengroup.md",
-    "index-2.md",
-    "index-3.md",
-    "webrtc-p2p-browser-connections.md",
-    "signaling-with-servers.md",
-    "signaling.svg",
-    "turn-servers.md",
-    "opengroup-introduction.md",
-    "opengroup-introduction-2.md",
-    {
-        "attr": {
-            "data-background": "resources/mockup.png",
-            "data-background-size": "contain",
-            "data-background-color": "white"
-        }
-    },
-    "progressive-webapp.md",
-    "group-manifest.md",
-    "group-manifest-2.md",
-    "signaling.md",
-    "plugins-marketplace.md",
-    "plugins-marketplace-2.md",
-    "plugin.md",
-    "easywebrtc.md",
-    "es6-jspm.md",
-    "add-plugin.md",
-    "testing-peers-with-karma.md",
-    "vuejs-as-theme-layer.md",
-  "templating.md",
-  "interested-to-join.md"
+    "about-me.md",
+    "introduction-to-opengroup.md",
+    "introduction-to-opengroup-2.md",
+    "what-drove-the-idea.md",
+    "demo-of-the-current-code.md",
+    "how-does-opengroup-work.md",
+    "onwards.md",
+    "interested-to-join.md"
 ]
